@@ -1,0 +1,2 @@
+gate_open,n,refusal_rate,instructional_rate,avg_gen_sem,avg_gen_conf,avg_sem_prompt,gsm_acc
+gate_open=False,50,0.0,0.24,0.00933177590370178,0.43985449060797693,-0.1104356927424669,0.6
